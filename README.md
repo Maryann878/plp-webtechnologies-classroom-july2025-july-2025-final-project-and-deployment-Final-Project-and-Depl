@@ -1,6 +1,6 @@
-# 🌐 MaryAnn Nwagor - Professional Web Developer Portfolio
+# 🌐 AnnauraTech by Maya - Shaping Your Digital Aura
 
-A modern, responsive, and interactive multi-page website showcasing web development skills, services, and professional portfolio. Built with HTML5, CSS3, and JavaScript following industry best practices.
+A modern, responsive, and interactive multi-page website showcasing digital innovation and web development expertise. Built with HTML5, CSS3, and JavaScript following industry best practices, featuring the Aurora gradient design system.
 
 ## 📋 Table of Contents
 
@@ -181,7 +181,7 @@ plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Fi
 
 ## 🌐 Live Demo
 
-**Live Website**: [https://maryann-nwagor-portfolio.netlify.app](https://maryann-nwagor-portfolio.netlify.app)
+**Live Website**: [https://annauratech.netlify.app/](https://annauratech.netlify.app/)
 
 **GitHub Repository**: [https://github.com/maryann-nwagor/web-dev-portfolio](https://github.com/maryann-nwagor/web-dev-portfolio)
 
@@ -291,7 +291,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Email**: maryann.nwagor@example.com
 - **LinkedIn**: [linkedin.com/in/maryann-nwagor](https://linkedin.com/in/maryann-nwagor)
 - **GitHub**: [github.com/maryann-nwagor](https://github.com/maryann-nwagor)
-- **Portfolio**: [maryann-nwagor-portfolio.netlify.app](https://maryann-nwagor-portfolio.netlify.app)
+- **Portfolio**: [annauratech.netlify.app](https://annauratech.netlify.app/)
 
 ---
 
